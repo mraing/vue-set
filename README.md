@@ -11,3 +11,9 @@
 - **[vue 大屏数据展示](https://github.com/mraing/vue-set/tree/master/vue-datav)**
 
  ![vue 大屏数据展示](http://images.leegeing.cn/hexoImg/vue%20%E5%A4%A7%E5%B1%8F%E6%95%B0%E6%8D%AE%E5%B1%95%E7%A4%BA.gif)
+
+
+- [vue 多语言切换]()
+
+ ![l18n-lang](http://images.leegeing.cn/hexoImg/l18n-lang.gif)
+
